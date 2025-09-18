@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Hosting;
 
+
 namespace LearnSmartCoding.EssentialProducts.API
 {
     public class Program
